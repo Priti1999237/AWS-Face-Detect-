@@ -20,7 +20,14 @@ s3
 4. Making the Object Public
 5. Checking the S3 link on the browser
 
- for Rekognition
+ 
+IMP: for EC2 & S3
+1. Installing aws-sdk
+2. Installing php
+3. index.php file code
+4. Upload success 
+
+for Rekognition
  
 1. Face Detect
 2. Face Compare
@@ -28,9 +35,4 @@ s3
 4. Text in Image
 
 
-IMP: for EC2 & S3
-1. Installing aws-sdk
-2. Installing php
-3. index.php file code
-4. Upload success screenshot
      
